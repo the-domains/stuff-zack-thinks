@@ -1,15 +1,25 @@
 ---
-title: 'My tomatoes are already flowering and need to be trained to a trellis. It might be time to bring them home from work!'
-datePublished: '2016-04-21T01:36:35.512Z'
-dateModified: '2016-04-21T00:51:56.320Z'
-author: []
-description: ''
-sourcePath: _posts/2016-04-21-my-tomatoes-are-already-flowering-and-need-to-be-trained-to.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
-_type: MediaObject
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-04-24T21:44:19.451Z'
+dateModified: '2016-04-24T21:41:13.002Z'
+title: 'My tomatoes are already flowering and need to be trained to a trellis. It might be time to bring them home from work!'
+author: []
+sourcePath: _posts/2016-04-21-my-tomatoes-are-already-flowering-and-need-to-be-trained-to.md
+published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
+_type: Blurb
 
 ---
 # My tomatoes are already flowering and need to be trained to a trellis. It might be time to bring them home from work!
